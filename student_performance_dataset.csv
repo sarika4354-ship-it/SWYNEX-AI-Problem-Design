@@ -1,0 +1,31 @@
+Student_ID,Study_Hrs,Attendance,Previous_Mark,Assignment_Score,Result
+S001,2,65,45,40,At Risk
+S002,5,85,72,80,Not At Risk
+S003,1,55,38,35,AT  Risk
+S004,6,90,80,85,Not At Risk
+S005,3,70,55,60,Not At Risk
+S006,2,60,42,45,At Risk
+S007,7,95,88,90,Not At Risk
+S008,4,78,68,72,Not At Risk
+S009,1,52,35,30,At Risk
+S010,6,88,76,82,Not At Risk
+S011,2,58,40,38,At Risk
+S012,5,82,70,75,Not At Risk
+S013,3,68,50,55,At Risk
+S014,8,96,92,94,Not At Risk
+S015,4,75,75,68,Not At Risk
+S016,1,50,50,28,At Risk
+S017,6,86,86,80,Not At Risk
+S018,2,63,63,42,At Risk
+S019,5,80,80,74,Not At Risk
+S020,3,66,66,50,At Risk
+S021,7,92,92,88,Not At Risk
+S022,2,57,57,36,At Risk
+S023,4,73,73,65,Not At Risk
+S024,1,54,54,32,At Risk
+S025,6,89,89,86,Not At Risk
+S026,3,64,64,48,At Risk
+S027,5,84,84,78,Not At Risk
+S028,2,59,59,40,At risk
+S029,7,91,91,90,Not At Risk
+S030,4,76,76,70,Not At Risk
